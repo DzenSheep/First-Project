@@ -1,0 +1,19 @@
+@import url(./_circle/business__card_circle.css);
+@import url(./_left/business__card_left.css);
+@import url(./_subtitle/business__card_subtitle.css);
+@import url(./_title/business__card_title.css);
+
+.business__card {
+    max-width: 308px;
+    height: 379px;
+    width: 100%;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 40px;
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.business__card_left:last-child {
+    margin-bottom: 0;
+}

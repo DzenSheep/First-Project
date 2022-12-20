@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'Averta';
+	font-weight: 400;
+	src: url('./font/averta_demo_pe_cutted_demo_regular.woff2') format('woff2'),
+		 url('./font/averta_demo_pe_cutted_demo_regular.woff') format('woff');
+}

@@ -1,0 +1,11 @@
+.business__card_circle {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    box-sizing: border-box;    
+    border: 8.8px solid #FF007A;
+    border-radius: 50%;
+    z-index: -1;
+    right: -40px;
+    bottom: 43px;
+}

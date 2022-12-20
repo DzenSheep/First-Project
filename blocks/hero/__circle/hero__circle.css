@@ -1,0 +1,9 @@
+.hero__circle {
+    width: 129px;
+    height: 129px;
+    background: #DAE9FF;
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+    left: -63px;
+}

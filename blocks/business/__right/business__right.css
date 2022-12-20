@@ -1,0 +1,7 @@
+@import url(./_background/business__right_background.css);
+
+.business__right {
+    position: relative;
+    right: 183px;
+    display: flex;
+}

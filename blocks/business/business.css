@@ -1,0 +1,19 @@
+@import url(./__card/business__card.css);
+@import url(./__cards/business__cards.css);
+@import url(./__circles/business__circles.css);
+@import url(./__content/business__content.css);
+@import url(./__corner/business__corner.css);
+@import url(./__figure/business__figure.css);
+@import url(./__logo/business__logo.css);
+@import url(./__right/business__right.css);
+@import url(./__subtitle/business__subtitle.css);
+@import url(./__title/business__title.css);
+
+.business {
+    max-width: 1358px;
+    height:867px;
+    width: 100%;
+    margin-left: auto;
+    position: relative;
+    display: flex;
+}

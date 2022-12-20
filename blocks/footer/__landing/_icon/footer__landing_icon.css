@@ -1,0 +1,7 @@
+.footer__landing_icon {
+    margin-left: 16px;
+}
+
+.footer__landing_icon:first-of-type {
+    margin-left: 0;
+}

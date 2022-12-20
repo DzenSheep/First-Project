@@ -1,0 +1,13 @@
+@import url(./__content/client__content.css);
+@import url(./__logo/client__logo.css);
+@import url(./__logos/client__logos.css);
+@import url(./__subtitle/client__subtitle.css);
+@import url(./__title/client__title.css);
+
+.client {
+    display: flex;
+    margin: 136px auto 94px;
+    max-width: 1200px;
+    width: 100%;
+    justify-content: space-between;
+}

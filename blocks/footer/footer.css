@@ -1,0 +1,17 @@
+@import url(./__company/footer__company.css);
+@import url(./__copyright/footer__copyright.css);
+@import url(./__landing/footer__landing.css);
+@import url(./__link/footer__link.css);
+@import url(./__support/footer__support.css);
+@import url(./__tltle/footer__title.css);
+@import url(./__whatwedo/footer__whatwedo.css);
+
+.footer {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 60px 0 29px;
+    border-top: 1px solid #E4E4E4;
+    border-bottom: 1px solid #E4E4E4;
+    display: flex;
+}

@@ -1,0 +1,24 @@
+.business__figure {
+    width: 121px;
+    height: 121px;
+    border-radius: 20px;
+    margin: 39px auto 31px;
+    display: flex;
+}
+
+.business__figure_color-1 {
+    background: #F1F7FF;
+
+}
+
+.business__figure_color-2 {
+    background: #FFF2F8
+}
+
+.business__figure_color-3 {
+    background: #FFF7E3;
+}
+
+.business__figure_color-4 {
+    background: #DEFFEE;
+}

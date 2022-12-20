@@ -1,0 +1,10 @@
+.business__right_background {
+    background: #F4F9FF;
+    border-radius: 150px 0px 0px 0px;
+    width: 1047px;
+    height: 618px;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    top: 140px;
+}

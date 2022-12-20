@@ -1,0 +1,23 @@
+.client__logo {
+    margin-left: 60px;
+}
+
+.client__logo:first-of-type {
+    margin-left: 0;
+}
+
+.logo__amazon {
+    margin-bottom: 10px;
+}
+
+.logo__ubereats {
+    margin-bottom: 30px;
+}
+
+.logo__airbnb {
+    margin-bottom: 17px;
+}
+
+.logo__google {
+    margin-bottom: 17px;
+}

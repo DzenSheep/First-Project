@@ -1,0 +1,9 @@
+@import url(./_icon/footer__landing_icon.css);
+@import url(./_icons/footer__landing_icons.css);
+@import url(./_text/footer__landing_text.css);
+
+.footer__landing {
+    max-width: 270px;
+    width: 100%;
+    margin-right: auto;
+}

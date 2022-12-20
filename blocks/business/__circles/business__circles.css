@@ -1,0 +1,6 @@
+.business__circles {    
+    z-index: -2;
+    position: absolute;
+    left: 50px;
+    bottom: 76px;
+}

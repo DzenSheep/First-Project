@@ -1,0 +1,11 @@
+.business__cards {
+    height: 788px;
+    width: 308px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.business__cards:first-of-type {
+    margin-right: 32px;
+}

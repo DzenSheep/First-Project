@@ -1,0 +1,12 @@
+@import url(./__content/since__content.css);
+@import url(./__corner/since__corner.css);
+@import url(./__subtitle/since__subtitle.css);
+@import url(./__title/since__title.css);
+
+.since {
+    max-width: 1200px;
+    width: 100%;
+    margin: 164px auto 80px;
+    display: flex;
+    justify-content: space-between;
+}
